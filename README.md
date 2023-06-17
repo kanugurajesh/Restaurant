@@ -18,3 +18,6 @@
 1. Run the command <code>python -m venv myenv</code> this command creates an virtual environment
 2. Now activate the virtual environment <code>source myenv/bin/activate</code>
 3. Install the required modules by running the command <code>pip install -r requirements.txt</code>
+
+## DEMO
+<code>http://rajeshkanugu.pythonanywhere.com/</code>
