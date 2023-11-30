@@ -1,4 +1,4 @@
-# django fullstack project
+# Restaurant
 
 ### Prerequisites
 1. python installed on your machine(3.8+)
