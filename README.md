@@ -1,5 +1,7 @@
 # Restaurant
 
+Welcome to the Restaurant Application! This application allows you to explore the menu, reserve seats, and seamlessly integrates with Google Maps for an enhanced dining experience.
+
 ### Prerequisites
 1. python installed on your machine(3.8+)
 
