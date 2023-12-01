@@ -4,7 +4,7 @@
 
 # Restaurant
 
-Welcome to the Restaurant Application! This application allows you to explore the menu, reserve seats, and seamlessly integrates with Google Maps for an enhanced dining experience.
+🍽️ Welcome to the Restaurant Application! 🍣 This application allows you to explore the menu 📜, reserve seats 🪑, and seamlessly integrates with Google Maps 🗺️ for an enhanced dining experience. 🌟
 
 ## Features
 
