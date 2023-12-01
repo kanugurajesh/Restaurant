@@ -20,4 +20,4 @@
 3. Install the required modules by running the command <code>pip install -r requirements.txt</code>
 
 ## DEMO
-<code>http://rajeshkanugu.pythonanywhere.com/</code>
+<a href="https://youtu.be/Q5FUZfroKzA?feature=shared"><img src="https://github.com/kanugurajesh/Restaurant/assets/120458029/b3e6e45a-943e-4c2e-8fa4-9b8a09ff46bc" alt="demo" width="200" height="200"/></a>
