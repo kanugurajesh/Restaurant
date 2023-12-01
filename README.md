@@ -2,6 +2,37 @@
 
 Welcome to the Restaurant Application! This application allows you to explore the menu, reserve seats, and seamlessly integrates with Google Maps for an enhanced dining experience.
 
+## Features
+
+### 1. Menu Exploration
+- Browse through a diverse menu with a wide range of delicious dishes.
+- View detailed descriptions, prices, and images for each menu item.
+
+### 2. Reservation System
+- Easily reserve seats for your desired date and time.
+- Receive instant confirmation and updates on your reservation status.
+
+### 3. Google Maps Integration
+- Find the restaurant location effortlessly using Google Maps integration.
+- Get directions and discover nearby points of interest.
+
+### 4. Virtual Environment Setup
+- Simplified steps to set up a virtual environment for project isolation.
+- Ensure smooth deployment and avoid conflicts with other Python projects.
+
+### 5. Database Management
+- Perform migrations to set up and manage the database.
+- Keep your data organized and efficiently retrieve information.
+
+### 6. Customizable Port Configuration
+- Run the application on a default port (8000) or specify a custom port for flexibility.
+- Easily adapt to your preferred environment and configurations.
+
+### 7. Fedora Compatibility
+- Step-by-step guide for setting up the virtual environment on Fedora.
+- Ensure a smooth installation process on Fedora-based systems.
+
+
 ### Prerequisites
 1. python installed on your machine(3.8+)
 
