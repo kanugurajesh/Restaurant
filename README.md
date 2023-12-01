@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/kanugurajesh/Restaurant/assets/120458029/38824a97-4cc0-4a16-9d7b-42ca6c0604bd" alt="Restaurant" width="200" height="200">
+  <img src="https://github.com/kanugurajesh/Restaurant/assets/120458029/38824a97-4cc0-4a16-9d7b-42ca6c0604bd" alt="Restaurant" width="150" height="150">
 </div>
 
 # Restaurant
