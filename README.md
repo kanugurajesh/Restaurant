@@ -7,6 +7,7 @@
 🍽️ Welcome to the Restaurant Application! 🍣 This application allows you to explore the menu 📜, reserve seats 🪑, and seamlessly integrates with Google Maps 🗺️ for an enhanced dining experience. 🌟
 
 ## Features
+What makes us unique and what are the advantages of using my product
 
 ### 1. Menu Exploration
 - Browse through a diverse menu with a wide range of delicious dishes.
